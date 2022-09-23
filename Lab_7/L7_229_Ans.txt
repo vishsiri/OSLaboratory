@@ -1,0 +1,33 @@
+//64050229
+//Vish Siriwatana
+Q1 -
+        this.datA = a;
+        this.datB = b;
+        this.datC = c;
+        this.processing_row = tRow;
+        this.processing_col = tCol;
+Q2 - 
+        public
+Q3 -
+        for (int i = 0; i < datA.data[0].length; i++) {
+            datC.data[processing_row][processing_col] += (datA.data[processing_row][i] * datB.data[i][processing_col]);
+        }
+Q4 -
+        Thread[][] thread = new Thread[matC_r][matC_c];
+        for (int i = 0; i < matC_r; i++) {
+            for (int j = 0; j < matC_r; j++) {
+                thread[i][j] = new Thread(new MatrixMulThread(i, j, matA, matB, matC));
+                thread[i][j].start();
+            }
+        }
+Q5 -
+        try {
+            for (int i = 0; i < thread.length; i++) {
+                for (int j = 0; j < thread.length; j++) {
+                    thread[i][j].join();
+                }
+            }
+        } catch (Exception e) {
+            System.out.println(e);
+        }
+        
