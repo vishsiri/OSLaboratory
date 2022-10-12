@@ -22,8 +22,8 @@ int main(void) {
         exit(0);
     } else {
         sleep(1);
-        for (int i = 5; i > 0; i--) {
-            printf("parentPS will kill childPS in %d\n", i);
+        for (int i = 3; i > 0; i--) {
+            printf("parentProcess will kill childProcess in %d\n", i);
             sleep(1);
         }
         kill(pid, SIGTERM);
