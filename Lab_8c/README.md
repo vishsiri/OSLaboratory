@@ -15,7 +15,7 @@
 
 | Question  | Answer |
 |--|--|
-| <center>5.1 | <center>B `shmid = shmget(IPC_PRIVATE, sizeof(int), 0666 | IPC_CREAT);` |
+| <center>5.1 | <center>B |
 | <center>5.2 | <center>`(int  *)` |
 | <center>5.3 | <center>`count[0]  = temp;` |
 | <center>5.4 | <center>4 and 6|
