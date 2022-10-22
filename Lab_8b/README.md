@@ -14,7 +14,7 @@
 
 > Result from **Lab8b_q1.c**
 
-![result Lab_8b](https://github.com/vishsiri/OSLaboratory/blob/main/Lab_8b/image/ocor6TeWPCtC.png)
+![result Lab_8b](https://github.com/vishsiri/OSLaboratory/blob/main/Lab_8b/image/a.png)
 
 ## Lab8b_q2.c
 
@@ -48,5 +48,5 @@ int main() {
 ```
 > Result from **Lab8_2.sh**
 
-![image lab8_2.sh](https://cdn.discordapp.com/attachments/871596406480175127/1033283407486132256/unknown.png)
+![image lab8_2.sh](https://github.com/vishsiri/OSLaboratory/blob/main/Lab_8b/image/b.png)
 
