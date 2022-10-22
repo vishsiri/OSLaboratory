@@ -8,7 +8,7 @@
 
 > Output from **./q4 & and ./q3**
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://cdn.discordapp.com/attachments/871596406480175127/1033371551044730950/tenor.webp)
 
 ## No.5 Program
 > Answer
