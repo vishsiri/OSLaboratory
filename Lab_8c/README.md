@@ -8,7 +8,7 @@
 
 > Output from **./q4 & and ./q3**
 
-![Alt Text](http://vishsiri.info/cloud/b.gif)
+![Alt Text](http://103.174.190.55/cloud/b.gif)
 
 ## No.5 Program
 > Answer
