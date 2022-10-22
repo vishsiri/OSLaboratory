@@ -14,7 +14,7 @@
 
 > Result from **Lab8b_q1.c**
 
-![result Lab_8b](https://cdn.discordapp.com/attachments/871596406480175127/1033281328172515349/unknown.png)
+![result Lab_8b](https://github.com/vishsiri/OSLaboratory/blob/main/Lab_8b/image/ocor6TeWPCtC.png)
 
 ## Lab8b_q2.c
 
