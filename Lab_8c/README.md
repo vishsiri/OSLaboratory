@@ -8,7 +8,7 @@
 
 > Output from **./q4 & and ./q3**
 
-![q3q4 output](https://github.com/vishsiri/OSLaboratory/blob/main/Lab_8c/image/b.gif)
+![q3q4 output](https://tenor.com/view/gif-26969791)
 
 ## No.5 Program
 > Answer
