@@ -8,7 +8,7 @@
 
 > Output from **./q4 & and ./q3**
 
-![q3q4 output](https://tenor.com/view/gif-26969791)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## No.5 Program
 > Answer
