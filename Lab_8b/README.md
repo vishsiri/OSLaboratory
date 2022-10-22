@@ -1,6 +1,6 @@
 >  **Vish Siriwatana 64050229**
 > Operating System Lab 8b Answer
->Date : 22/10/2022
+> Date : 22/10/2022
 
 ## Lab8b_q1.c
 | Question | Answer |
