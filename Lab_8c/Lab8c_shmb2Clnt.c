@@ -21,8 +21,7 @@ int main()
     int shmid = shmget(key, 1024, 0666 | IPC_CREAT);
     // shmat to attach to shared memory
     str = (char *)shmat(shmid, (void *)0, 0);
-    while (isLoop)
-        ; // set to 0 to disable loop
+    while (isLoop); // set to 0 to disable loop
     // str now refers to content in shmMem
     printf("Data in memory: %s\n", str);
     int ppid = atoi(str);
