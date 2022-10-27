@@ -13,6 +13,7 @@ void * Count(void* a) {
   int i;
   for (i = 0; i < NITER; i++) {
     /* C */
+    sem_wait(&mySemaphore);
     cnt++;
     sem_post(&mySemaphore);
   }
@@ -27,6 +28,7 @@ void * Count(void* a) {
 }
 int main() {
   /* D */
+  sem_init(&mySemaphore, 0, 1);
   pthread_attr_init(&attr[0]); 
   pthread_attr_init(&attr[1]);
   pthread_create(&tid[0],&attr[0],
