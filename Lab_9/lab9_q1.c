@@ -48,9 +48,11 @@ void  parentProcess(int *count) {
      int temp = *count;  temp++;
      /*sleep(rand() % 3); */ *count = temp;
      /* A */
+     exitCriticalSection(0);
 }
 void  childProcess(int *count) {
      /* B */
+     enterCriticalSection(1);
      int temp = *count;  temp--;
      /*sleep(rand() % 3); */ *count = temp;
      exitCriticalSection(1);    
