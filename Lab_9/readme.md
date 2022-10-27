@@ -1,3 +1,6 @@
+> Vish Siriwatana
+> 64050229
+
 ## Ans Lab9_q1
 
 > A
