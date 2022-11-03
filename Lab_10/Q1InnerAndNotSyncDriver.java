@@ -22,11 +22,11 @@ public class Q1InnerAndNotSyncDriver {
       } catch (InterruptedException ie) {}
     }
     if (sn.getVal() < nThread) {
-      System.out.printf("v1 val = %d Not ");
-      System.out.printf("100,000\n", sn.getVal());
+      System.out.printf("v1 val = %d Not ", sn.getVal());
+      System.out.printf("100,000\n");
     } else {
-      System.out.printf("v1 good job! %d \n");
-      System.out.printf("\n", sn.getVal());
+      System.out.printf("v1 good job! %d \n", sn.getVal());
+      System.out.printf("\n");
     }
   }
 }

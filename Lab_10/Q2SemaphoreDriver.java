@@ -25,11 +25,11 @@ public class Q2SemaphoreDriver {
       } catch (InterruptedException ie) {}
     }
     if (sn.getVal() < nThread) {
-      System.out.printf("v%d val = %d Not ");
-      System.out.printf("100,000\n", v, sn.getVal());
+      System.out.printf("v%d val = %d Not ", v, sn.getVal());
+      System.out.printf("100,000\n");
     } else {
-      System.out.printf("v%d good job! %d \n");
-      System.out.printf("\n", v, sn.getVal());
+      System.out.printf("v%d good job! %d \n", v, sn.getVal());
+      System.out.printf("\n");
     }
   }
 }
