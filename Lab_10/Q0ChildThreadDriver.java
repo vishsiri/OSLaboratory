@@ -1,4 +1,5 @@
 public class Q0ChildThreadDriver {
+
   public static void main(String[] args) {
     int nThread = 100000; // hundred thousands
     SharedNum1 sn = new SharedNum1();
@@ -22,15 +23,16 @@ public class Q0ChildThreadDriver {
     }
   }
 }
+
 class ChildSimple extends Thread {
 
-    SharedNum1 resource;
+  SharedNum1 resource;
 
-    ChildSimple(SharedNum1 ref) {
-      resource = ref;
-    }
-
-    public void run() {
-      resource.increment();
-    }
+  ChildSimple(SharedNum1 ref) {
+    resource = ref;
   }
+
+  public void run() {
+    resource.increment();
+  }
+}
