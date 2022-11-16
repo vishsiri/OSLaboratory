@@ -1,0 +1,249 @@
+Empty, waiting
+Empty, waiting
+Empty, waiting
+Empty, waiting
+Empty, waiting
+Empty, waiting
+Empty, waiting
+Empty, waiting
+Empty, waiting
+Empty, waiting
+Empty, waiting
+Empty, waiting
+9 takes 2
+put 2 size = 0
+22 takes 1
+put 1 size = 0
+Empty, waiting
+Empty, waiting
+Empty, waiting
+Empty, waiting
+Empty, waiting
+Empty, waiting
+Empty, waiting
+Empty, waiting
+Empty, waiting
+Empty, waiting
+Empty, waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+put 4 size = 1
+put 6 size = 2
+25 takes 4
+put 8 size = 2
+put 10 size = 2
+put 12 size = 4
+put 14 size = 5
+29 takes 8
+26 takes 6
+Stop waiting
+10 takes 3
+30 takes 10
+put 16 size = 5
+put 3 size = 4
+Stop waiting
+23 takes 12
+Stop waiting
+24 takes 14
+Stop waiting
+27 takes 16
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+put 18 size = 2
+put 5 size = 2
+put 20 size = 3
+Stop waiting
+28 takes 18
+Stop waiting
+11 takes 5
+Stop waiting
+31 takes 20
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+put 7 size = 1
+put 9 size = 2
+put 11 size = 4
+put 13 size = 5
+Stop waiting
+13 takes 7
+Stop waiting
+put 22 size = 4
+Stop waiting
+15 takes 22
+14 takes 9
+Stop waiting
+16 takes 11
+Stop waiting
+18 takes 13
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+put 15 size = 1
+put 17 size = 2
+put 19 size = 4
+put 24 size = 4
+Stop waiting
+19 takes 15
+put 21 size = 5
+Stop waiting
+21 takes 17
+Stop waiting
+2 takes 24
+Stop waiting
+12 takes 19
+Stop waiting
+3 takes 21
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+put 26 size = 1
+put 28 size = 2
+put 30 size = 4
+put 23 size = 4
+Stop waiting
+put 25 size = 5
+Stop waiting
+6 takes 28
+5 takes 26
+Stop waiting
+17 takes 23
+Stop waiting
+4 takes 30
+Stop waiting
+7 takes 25
+Stop waiting
+Empty, waiting
+Stop waiting
+Empty, waiting
+put 27 size = 1
+Stop waiting
+20 takes 27
+Stop waiting
+Empty, waiting
+put 29 size = 1
+Stop waiting
+8 takes 29
+chief no. 0 cooks 15
+chief no. 1 cooks 15
+bye
