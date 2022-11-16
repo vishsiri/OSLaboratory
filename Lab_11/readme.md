@@ -20,7 +20,7 @@ wait();
 Q4
 
 ```java
-inside ( Q4.1 )
+inside ( Q4.1 ) เพราะต้องใส่ในกรณี Exception
 ```
 Q5
 
