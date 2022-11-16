@@ -10,7 +10,6 @@ Q3
 
 wait();
 Q4
-
 outside
 Q5
 

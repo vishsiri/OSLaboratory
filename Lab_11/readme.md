@@ -20,7 +20,7 @@ wait();
 Q4
 
 ```java
-outside
+inside ( Q4.1 )
 ```
 Q5
 

@@ -90,7 +90,8 @@ class StackForConcurrent {
         top = new Node(n, top);
         size++;
         if (top.next == null) {
-            /* Q1 */ notifyAll();
+            /* Q1 */ 
+            notifyAll();
             
         }
         /* no_longer_empty */
@@ -106,12 +107,12 @@ class StackForConcurrent {
              * choose between Q4.1 or
              * Q4.2 inside or outside try block
              */
-            // size--; /* Q4.1 */
+            size--; /* Q4.1 */
         } catch (InterruptedException e) {
             System.out.println("error");
             return 1;
         }
-        size--; /* Q4.2 */
+        //size--; /* Q4.2 */
         int n = top.val;
         top = top.next;
         return n;
