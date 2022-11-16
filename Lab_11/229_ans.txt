@@ -1,0 +1,17 @@
+Answer Lab 11
+Vish Siriwatana 64050229
+Q1
+
+notifyAll();
+Q2
+
+synchronized
+Q3
+
+wait();
+Q4
+
+outside
+Q5
+
+public
